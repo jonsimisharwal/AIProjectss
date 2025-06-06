@@ -40,13 +40,13 @@ Branch-FirstProject
 ┣ 📄 WordTokenizationF.ipynb
 ┗ 📄 README.md
 
+
 ## 🧪 Sample Output
 
 Input:
-## 🧪 Sample Output
-
-Input:![image](https://github.com/user-attachments/assets/c2fc00d9-97d9-42ff-ab55-607c092609ee)
-Output:![image](https://github.com/user-attachments/assets/d3784090-ba97-4dac-a9cb-cb0a306946f8)
+![image](https://github.com/user-attachments/assets/c2fc00d9-97d9-42ff-ab55-607c092609ee)
+Output:
+![image](https://github.com/user-attachments/assets/d3784090-ba97-4dac-a9cb-cb0a306946f8)
 
 📦 How to Run
 Install dependencies:
