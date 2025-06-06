@@ -63,5 +63,5 @@ Why tokenization is essential in any NLP pipeline
 – Jonsi
 
 ## 📌 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonsi-misharwal-24295b286/
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonsi-misharwal-24295b286/)
 - ✉️ [Email](jonsimisharwal@gmail.com)
